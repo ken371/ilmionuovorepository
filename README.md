@@ -18,3 +18,4 @@ bella a tutti
 - Repubblica
 - Turati
 - Montenapoleone
+- Duomo
