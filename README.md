@@ -19,3 +19,4 @@ bella a tutti
 - Turati
 - Montenapoleone
 - Duomo
+- Missori
