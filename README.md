@@ -12,3 +12,4 @@ bella a tutti
 - Affori centro
 - Dergano 
 - Maciachini
+- Zara 
