@@ -9,3 +9,4 @@ bella a tutti
 ### metro gialla
 - comasina
 - Affori fn
+- Affori centro
