@@ -27,3 +27,4 @@ bella a tutti
 - Corvetto
 - Porto di mare
 - Rogoredo fs
+- San donato
