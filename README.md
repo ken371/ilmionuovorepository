@@ -20,3 +20,4 @@ bella a tutti
 - Montenapoleone
 - Duomo
 - Missori
+- Crocetta
