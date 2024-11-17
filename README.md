@@ -13,3 +13,4 @@ bella a tutti
 - Dergano 
 - Maciachini
 - Zara 
+- Sondrio
