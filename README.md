@@ -14,3 +14,4 @@ bella a tutti
 - Maciachini
 - Zara 
 - Sondrio
+- Centrale
