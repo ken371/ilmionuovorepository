@@ -22,3 +22,4 @@ bella a tutti
 - Missori
 - Crocetta
 - Porta romana
+- Lodi tibb
