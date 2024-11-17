@@ -21,3 +21,4 @@ bella a tutti
 - Duomo
 - Missori
 - Crocetta
+- Porta romana
