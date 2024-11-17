@@ -16,3 +16,4 @@ bella a tutti
 - Sondrio
 - Centrale
 - Repubblica
+- Turati
